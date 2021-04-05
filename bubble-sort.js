@@ -24,5 +24,7 @@ const bubbleSort = (arr) => {
   }
   return arr;
 };
-
-console.log(bubbleSort(ex4));
+console.log("🧶", bubbleSort(ex1));
+console.log("🕶", bubbleSort(ex2));
+console.log("🧦", bubbleSort(ex3));
+console.log("🧢", bubbleSort(ex4));
